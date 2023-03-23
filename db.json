@@ -3,29 +3,37 @@
     {
       "title": "Договор №001",
       "status": "Заключен",
+      "type": "Договор",
       "indicator": "active",
-      "date": "04.07.2021 - 04.07.2022",
+      "dateStart": "04.07.2022",
+      "dateEnd": "04.07.2023",
       "icon": "pdf"
     },
     {
       "title": "Договор №002",
       "status": "Расторгнут",
+      "type": "Договор",
       "indicator": "inactive",
-      "date": "04.07.2021 - 04.07.2022",
+      "dateStart": "04.07.2021",
+      "dateEnd": "04.07.2022",
       "icon": "jpg"
     },
     {
       "title": "Справка",
       "status": "",
+      "type": "Спровка",
       "indicator": "null",
-      "date": "04.07.2021 - 04.07.2022",
+      "dateStart": "04.07.2022",
+      "dateEnd": "04.07.2023",
       "icon": "jpg"
     },
     {
       "title": "Анкета",
       "status": "",
+      "type": "Другое",
       "indicator": "null",
-      "date": "04.07.2021 - 04.07.2022",
+      "dateStart": "04.07.2022",
+      "dateEnd": "04.07.2023",
       "icon": "xls"
     }
   ]
