@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "title": "Договор №001",
+      "status": "Заключен",
+      "indicator": "active",
+      "date": "04.07.2021 - 04.07.2022",
+      "icon": "pdf"
+    },
+    {
+      "title": "Договор №002",
+      "status": "Расторгнут",
+      "indicator": "inactive",
+      "date": "04.07.2021 - 04.07.2022",
+      "icon": "jpg"
+    },
+    {
+      "title": "Справка",
+      "status": "",
+      "indicator": "null",
+      "date": "04.07.2021 - 04.07.2022",
+      "icon": "jpg"
+    },
+    {
+      "title": "Анкета",
+      "status": "",
+      "indicator": "null",
+      "date": "04.07.2021 - 04.07.2022",
+      "icon": "xls"
+    }
+  ]
+}
